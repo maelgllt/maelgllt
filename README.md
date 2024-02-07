@@ -1,4 +1,4 @@
-<p align="center"><a href="https://maelgllt.github.io"><img width="80%" alt="Maël GUILLOTEAU - Développeur web" src="bannière-profil.png" /></a></p>
+<p align="center"><a href="https://maelgllt.github.io"><img width="80%" alt="Maël GUILLOTEAU - Développeur web" src="banniere.png" /></a></p>
 
 👋
 Je suis développeur web junior et j'étudie actuellement à l'ESAIP.
