@@ -41,5 +41,5 @@ N'hésitez pas à me contacter :
 
 ## Mes statistiques sur Github
 
-<img alt="mesStats" align="left" width="33%" src="https://github-readme-stats.vercel.app/api?username=maelgllt&show_icons=true&theme=tokyonight&hide_rank=true&locale=fr" />
-<img alt="mesLangages" align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maelgllt&layout=compact&theme=tokyonight&locale=fr" />
+<img alt="mesStats" align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=maelgllt&show_icons=true&theme=tokyonight&hide_rank=true&locale=fr" />
+<img alt="mesLangages" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maelgllt&layout=compact&theme=tokyonight&locale=fr" />
