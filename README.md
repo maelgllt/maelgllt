@@ -37,4 +37,9 @@ N'hésitez pas à me contacter :
 [![Trello](https://img.shields.io/badge/-Trello-000?logo=trello&logoColor=%230052CC)](https://trello.com/fr)
 [![Notion](https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=white)](https://www.notion.so/fr-fr)
 [![Github](https://img.shields.io/badge/-Github-000?logo=github&logoColor=white)](https://github.com/)
-[![Figma](https://img.shields.io/badge/-Figma-000?logo=figma&logoColor=%23F24E1E)](https://www.figma.com/fr/)
+[![Figma](https://img.shields.io/badge/-Figma-000?logo=figma&logoColor=%23F24E1E)](https://www.figma.com/fr/)   
+
+## Mes statistiques sur Github
+
+<img alt="mesStats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=maelgllt&show_icons=true&theme=tokyonight&hide_rank=true&locale=fr" />
+<img alt="mesLangages" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maelgllt&layout=compact&theme=tokyonight&locale=fr" />
