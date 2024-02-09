@@ -25,7 +25,11 @@ N'hésitez pas à me contacter :
 
 [![Java](https://img.shields.io/badge/-Java-000?logo=openjdk&logoColor=%23437291)](https://www.java.com/fr/)
 [![Python](https://img.shields.io/badge/-Python-000?logo=python&logoColor=%233776AB)](https://www.python.org/)
-[![C](https://img.shields.io/badge/-000?logo=c&logoColor=%23A8B9CC)](https://fr.wikipedia.org/wiki/C_(langage))  
+[![C](https://img.shields.io/badge/-000?logo=c&logoColor=%23A8B9CC)](https://fr.wikipedia.org/wiki/C_(langage))
+[![Flutter](https://img.shields.io/badge/Flutter-000?logo=flutter&logoColor=%2302569B)](https://flutter.dev/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-000?logo=androidstudio&logoColor=%233DDC84)](https://developer.android.com/studio)
+
+
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
