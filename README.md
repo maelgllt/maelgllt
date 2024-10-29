@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 👋
-Je suis développeur web junior et j'étudie actuellement à l'ESAIP.
+Je suis développeur web junior et je suis actuellement en MBA développeur FullStack à MyDigitalSchool.
 
 🎯Mon objectif est de développer mes connaissances et compétences en Frontend pour ensuite évoluer dans le domaine du Fullstack.
 
